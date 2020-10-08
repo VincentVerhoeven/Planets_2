@@ -3,4 +3,4 @@ There are two moons.
 
 This is the first step to my thesis.
 
-This is a change FROM github
+This is much better.
